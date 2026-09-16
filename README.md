@@ -588,6 +588,10 @@ AI-assisted workflow automation can improve the efficiency of engineering projec
 The most important principle is that AI-generated content should be **reviewed and validated by humans before it is used**. By combining structured prompting with human verification, learners can develop efficient, reliable, and professional workflows for real-world engineering projects.
 
 
+## Seminar presentation:
+
+https://drive.google.com/file/d/1MzoBGzc-lbbUpemZFv-L7HoYFEMeh2n2/view?usp=drive_link
+
 ## Result
 
 Thus,the given prompt executed successfully
